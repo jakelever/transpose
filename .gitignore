@@ -1,0 +1,5 @@
+
+*.pyc
+
+transpose.egg-info/
+
